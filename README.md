@@ -1,7 +1,7 @@
 # furbys-halls-example-datapack
 **TL;DR: 1.21.5 datapack with a boring underground structure. Inteded for learning purposes.**
 
-This datapack adds a simple, jigsaw-type underground structure to Minecraft worlds. It has two variants, both of which can appear in any biomes which have trial chambers. The structure is a sprawling system of plain, dark, hallways, with mob spawners and a loot room near the center. They come in default (regular hostile mob) and zombie-only versions. The loot is decent.
+This datapack adds a simple, jigsaw-type underground structure to Minecraft worlds. It has two variants, both of which can appear in any biomes which have trial chambers. The structure is a sprawling system of plain, dark, hallways, with mob spawners and a loot room near the center. They come in default (regular hostile mob) and zombie-only variants. The loot is decent.
 
 This datapack is published for learning purposes – i.e. those who download it are encouraged to delve into the datapack files to learn how they can add structures to their own datapacks. I can't really recommend actually playing with it, though I don't think it *detracts* from the vanilla experience at all.
 
